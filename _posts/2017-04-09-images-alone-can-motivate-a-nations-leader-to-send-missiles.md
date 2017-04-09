@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-09T23:09:51.372Z'
-datePublished: '2017-04-09T23:09:51.833Z'
+dateModified: '2017-04-09T23:10:40.654Z'
+datePublished: '2017-04-09T23:10:40.990Z'
 title: Images can become the motivation to go to war…
 author: []
 publisher: {}
