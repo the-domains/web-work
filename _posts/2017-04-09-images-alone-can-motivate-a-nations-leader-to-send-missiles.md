@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-09T23:11:42.200Z'
-datePublished: '2017-04-09T23:11:42.874Z'
+dateModified: '2017-04-09T23:12:10.395Z'
+datePublished: '2017-04-09T23:12:10.604Z'
 title: Images can be the spark that ignites a nation's will to war…
 author: []
 publisher: {}
