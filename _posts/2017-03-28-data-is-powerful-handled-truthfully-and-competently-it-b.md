@@ -1,13 +1,13 @@
 ---
 inFeed: true
 description: >-
-  Data is another powerful force behind change.   This is important, because
-  data can cut through the misconceptions and preconceptions we all carry with
-  us.  Handled truthfully and competently, data becomes a game-changer. But it
-  needs to be put into a human context to become useful.
-dateModified: '2017-04-09T23:43:15.133Z'
-datePublished: '2017-04-09T23:43:15.679Z'
-title: 'It’s not just photographs that can motivate change. '
+  Data is another powerful force behind change. This is important, because data
+  can cut through the misconceptions and preconceptions we all carry with us.
+  Handled truthfully and competently, data becomes a game-changer. But it needs
+  to be put into a human context to become useful.
+dateModified: '2017-04-09T23:44:26.410Z'
+datePublished: '2017-04-09T23:44:27.097Z'
+title: More than photographs can motivate change.
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ datePublishedOriginal: '2017-03-28T13:54:56.550Z'
 _type: Blurb
 
 ---
-### It's not just photographs that can motivate change. 
+### More than photographs can motivate change.
 
 Data is another powerful force behind change. This is important, because data can cut through the misconceptions and preconceptions we all carry with us. Handled truthfully and competently, data becomes a game-changer. But it needs to be put into a human context to become useful.
 
