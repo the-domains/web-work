@@ -3,9 +3,11 @@ inFeed: true
 description: >-
   Handled truthfully and competently, it becomes a game-changer. But it needs to
   be put into a human context to become useful.
-dateModified: '2017-04-09T23:35:33.704Z'
-datePublished: '2017-04-09T23:35:34.512Z'
-title: 'Images are powerful, but images do not have to be photographs to be powerful.'
+dateModified: '2017-04-09T23:37:23.244Z'
+datePublished: '2017-04-09T23:37:23.907Z'
+title: >-
+  Images are powerful, but images do not have to be photographs to be motivate. 
+  Data, if put in a visual form, can also be a powerful force behind change.
 author: []
 publisher: {}
 via: {}
@@ -15,11 +17,9 @@ datePublishedOriginal: '2017-03-28T13:54:56.550Z'
 _type: Blurb
 
 ---
-### Images are powerful, but images do not have to be photographs to be powerful.
+### Images are powerful, but images do not have to be photographs to be motivate. Data, if put in a visual form, can also be a powerful force behind change.
 
-### Data Visualization is powerful because.
-
-### Data is powerful.
+### Data Visualization is powerful because: Data is powerful.
 
 Handled truthfully and competently, it becomes a game-changer. But it needs to be put into a human context to become useful.
 
