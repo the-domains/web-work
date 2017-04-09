@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Another reason I work the web, why I am so passionate about it, is that I feel
   it is the great equalizer.
-dateModified: '2017-04-09T23:28:57.742Z'
-datePublished: '2017-04-09T23:28:58.244Z'
+dateModified: '2017-04-09T23:46:16.406Z'
+datePublished: '2017-04-09T23:46:16.682Z'
 title: ''
 author: []
 publisher: {}
