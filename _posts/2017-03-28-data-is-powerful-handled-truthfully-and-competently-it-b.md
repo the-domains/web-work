@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Handled truthfully and competently, it becomes a game-changer.  But it needs
   to be put into a human context to become useful.
-dateModified: '2017-04-09T23:12:10.395Z'
-datePublished: '2017-04-09T23:12:10.583Z'
+dateModified: '2017-04-09T23:14:43.307Z'
+datePublished: '2017-04-09T23:14:43.457Z'
 title: Data is powerful.
 author: []
 publisher: {}
