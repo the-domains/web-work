@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Add a personal story to data, and  humanity is added.   The power of the data
   is multiplied exponentially.
-dateModified: '2017-04-09T23:07:55.893Z'
-datePublished: '2017-04-09T23:07:56.266Z'
+dateModified: '2017-04-09T23:10:40.654Z'
+datePublished: '2017-04-09T23:10:40.986Z'
 title: Combine data with a story to empower it most.
 author: []
 publisher: {}
