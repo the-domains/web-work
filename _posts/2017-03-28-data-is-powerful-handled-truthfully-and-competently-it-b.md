@@ -1,13 +1,13 @@
 ---
 inFeed: true
 description: >-
-  Handled truthfully and competently, it becomes a game-changer. But it needs to
-  be put into a human context to become useful.
-dateModified: '2017-04-09T23:37:23.244Z'
-datePublished: '2017-04-09T23:37:23.907Z'
-title: >-
-  Images are powerful, but images do not have to be photographs to be motivate. 
-  Data, if put in a visual form, can also be a powerful force behind change.
+  Data is another powerful force behind change.   This is important, because
+  data can cut through the misconceptions and preconceptions we all carry with
+  us.  Handled truthfully and competently, data becomes a game-changer. But it
+  needs to be put into a human context to become useful.
+dateModified: '2017-04-09T23:41:34.468Z'
+datePublished: '2017-04-09T23:41:35.167Z'
+title: 'It’s not just photographs that can motivate change. '
 author: []
 publisher: {}
 via: {}
@@ -17,11 +17,9 @@ datePublishedOriginal: '2017-03-28T13:54:56.550Z'
 _type: Blurb
 
 ---
-### Images are powerful, but images do not have to be photographs to be motivate. Data, if put in a visual form, can also be a powerful force behind change.
+### It's not just photographs that can motivate change. 
 
-### Data Visualization is powerful because: Data is powerful.
-
-Handled truthfully and competently, it becomes a game-changer. But it needs to be put into a human context to become useful.
+Data is another powerful force behind change. This is important, because data can cut through the misconceptions and preconceptions we all carry with us. Handled truthfully and competently, data becomes a game-changer. But it needs to be put into a human context to become useful.
 
 That's where data visualization comes in.
 
