@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-09T23:10:40.654Z'
-datePublished: '2017-04-09T23:10:40.990Z'
-title: Images can become the motivation to go to war…
+dateModified: '2017-04-09T23:11:42.200Z'
+datePublished: '2017-04-09T23:11:42.874Z'
+title: Images can be the spark that ignites a nation's will to war…
 author: []
 publisher: {}
 via: {}
@@ -14,4 +14,4 @@ datePublishedOriginal: '2017-04-09T23:04:18.427Z'
 _type: Blurb
 
 ---
-### Images can become the motivation to go to war...
+### Images can be the spark that ignites a nation's will to war...
