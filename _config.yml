@@ -1,0 +1,49 @@
+layout_spectrum: 0.36678661031335
+typography_spectrum: 0.7151793119210823
+color:
+  brandStrength: 0.7176447622135909
+  lightness: 0.34780633342046624
+  saturation: 0.6135894533600842
+  rhythmicContrast: 0.6415123763195433
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: web-work
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66350d00-de26-4c09-9182-56514b81f50c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/66350d00-de26-4c09-9182-56514b81f50c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Why
+description: Why I do what I do on the web
+github: true
