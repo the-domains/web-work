@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   There was something about the light coming from within the computer screen
   that somehow made these images — alive.
-dateModified: '2017-04-09T23:07:55.893Z'
-datePublished: '2017-04-09T23:07:56.254Z'
+dateModified: '2017-04-09T23:28:57.742Z'
+datePublished: '2017-04-09T23:28:58.254Z'
 title: The very first reason I fell in love with the web is because of the images.
 author: []
 publisher: {}
