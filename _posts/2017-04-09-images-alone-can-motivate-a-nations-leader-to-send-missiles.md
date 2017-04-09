@@ -1,11 +1,9 @@
 ---
 inFeed: true
-description: >-
-  Images alone can motivate a nation’s leader to send missiles into lands
-  overseas….
-dateModified: '2017-04-09T23:07:55.893Z'
-datePublished: '2017-04-09T23:07:56.266Z'
-title: ''
+description: ''
+dateModified: '2017-04-09T23:09:51.372Z'
+datePublished: '2017-04-09T23:09:51.833Z'
+title: Images can become the motivation to go to war…
 author: []
 publisher: {}
 via: {}
@@ -16,4 +14,4 @@ datePublishedOriginal: '2017-04-09T23:04:18.427Z'
 _type: Blurb
 
 ---
-Images alone can motivate a nation's leader to send missiles into lands overseas....
+### Images can become the motivation to go to war...
