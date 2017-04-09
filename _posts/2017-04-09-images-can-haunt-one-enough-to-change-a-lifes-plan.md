@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-04-09T23:14:43.307Z'
-datePublished: '2017-04-09T23:14:43.459Z'
+dateModified: '2017-04-09T23:28:57.742Z'
+datePublished: '2017-04-09T23:28:58.287Z'
 title: Images can haunt one enough to change a life’s plan..
 author: []
 publisher: {}
