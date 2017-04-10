@@ -5,8 +5,8 @@ description: >-
   can cut through the misconceptions and preconceptions we all carry with us.
   Handled truthfully and competently, data becomes a game-changer. But it needs
   to be put into a human context to become useful.
-dateModified: '2017-04-10T00:03:08.507Z'
-datePublished: '2017-04-10T00:03:08.831Z'
+dateModified: '2017-04-10T00:12:06.579Z'
+datePublished: '2017-04-10T00:12:07.196Z'
 title: More than photographs can motivate change.
 author: []
 publisher: {}
