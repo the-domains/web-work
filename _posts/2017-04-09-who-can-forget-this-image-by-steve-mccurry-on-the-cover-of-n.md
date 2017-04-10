@@ -4,8 +4,8 @@ description: >-
   Who can forget this image by Steve McCurry on the cover of National
   Geographic?  I have known more than one person who has chosen a path of
   photo-journalism — just because of this picture.
-dateModified: '2017-04-10T00:12:06.579Z'
-datePublished: '2017-04-10T00:12:07.195Z'
+dateModified: '2017-04-10T00:14:12.336Z'
+datePublished: '2017-04-10T00:14:12.797Z'
 title: ''
 author: []
 publisher: {}
