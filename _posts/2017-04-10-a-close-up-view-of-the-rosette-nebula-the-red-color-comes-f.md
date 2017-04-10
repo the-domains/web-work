@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: A close up view of the Rosette Nebula. The red color comes from Hydrogen.
-dateModified: '2017-04-10T00:13:49.938Z'
-datePublished: '2017-04-10T00:13:50.515Z'
+dateModified: '2017-04-10T00:14:12.336Z'
+datePublished: '2017-04-10T00:14:12.803Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-04-10T00:13:50.515Z'
 sourcePath: >-
   _posts/2017-04-10-a-close-up-view-of-the-rosette-nebula-the-red-color-comes-f.md
+starred: false
+datePublishedOriginal: '2017-04-10T00:13:50.515Z'
 _type: Blurb
 
 ---
