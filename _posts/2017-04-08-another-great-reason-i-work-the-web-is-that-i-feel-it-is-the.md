@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  The barriers of wealth and health are removed from those who cannot afford
-  school, or do not have the health for it.
-dateModified: '2017-04-10T00:26:36.678Z'
-datePublished: '2017-04-10T00:26:37.878Z'
+description: This is especially true for those with disabilities.
+dateModified: '2017-04-10T00:27:50.386Z'
+datePublished: '2017-04-10T00:27:50.908Z'
 title: The Web is the great equalizer.
 author: []
 publisher: {}
@@ -16,9 +14,9 @@ datePublishedOriginal: '2017-04-08T15:30:03.739Z'
 _type: Blurb
 
 ---
-### The Web is the great equalizer.
+## The Web is the great equalizer.
 
-The barriers of wealth and health are removed from those who cannot afford school, or do not have the health for it.
+### The barriers of wealth and health are removed from those who cannot afford school, or do not have the health for it.
 
 This is especially true for those with disabilities.
 
