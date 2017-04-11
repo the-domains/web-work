@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: This is especially true for those with disabilities.
-dateModified: '2017-04-10T00:28:53.995Z'
-datePublished: '2017-04-10T00:28:54.611Z'
+dateModified: '2017-04-11T01:08:48.819Z'
+datePublished: '2017-04-11T01:08:49.099Z'
 title: The Web is the great equalizer.
 author: []
 publisher: {}
