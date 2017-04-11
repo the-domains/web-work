@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  There was something about the light coming from within the computer screen
-  that somehow made these images — alive.
-dateModified: '2017-04-09T23:28:57.742Z'
-datePublished: '2017-04-09T23:28:58.254Z'
-title: The very first reason I fell in love with the web is because of the images.
+  They were lit up by light, they were illuminated from within.  They were
+  alive, in a way.  
+dateModified: '2017-04-11T01:21:37.313Z'
+datePublished: '2017-04-11T01:21:38.153Z'
+title: The images on the web glowed.  Literally.
 author: []
 publisher: {}
 via: {}
@@ -16,8 +16,8 @@ datePublishedOriginal: '2017-04-03T19:24:08.369Z'
 _type: Blurb
 
 ---
-### The very first reason I fell in love with the web is because of the images.
+### The images on the web glowed. Literally.
 
-There was something about the light coming from within the computer screen that somehow made these images --- alive.
+They were lit up by light, they were illuminated from within. They were alive, in a way. 
 
-Almost as if these computer images were a paused film, waiting to released to animation.
+Even in this day and age, the color combination of color pixels cannot compete with film. But there is still something magical and different about an image generated from light itself.
