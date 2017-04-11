@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Why the web…
-dateModified: '2017-04-09T23:28:57.742Z'
-datePublished: '2017-04-09T23:28:58.277Z'
+dateModified: '2017-04-11T01:18:45.770Z'
+datePublished: '2017-04-11T01:18:47.138Z'
 title: ''
 author: []
 publisher: {}
@@ -15,4 +15,4 @@ _type: Blurb
 ---
 Why the web...
 
-For me, it started the day one of my students flipped her truck into a ditch trying to get to my class. We were in the dead of winter, and she lived deep in a holler in the mountains. Her only way out of was to get an education, and that came dearly.
+Enchantment. Power. Freedom. Ideas.
