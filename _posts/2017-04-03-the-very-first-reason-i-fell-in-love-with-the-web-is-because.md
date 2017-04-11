@@ -1,11 +1,9 @@
 ---
 inFeed: true
-description: >-
-  They were lit up by light, they were illuminated from within.  They were
-  alive, in a way.  
-dateModified: '2017-04-11T01:21:37.313Z'
-datePublished: '2017-04-11T01:21:38.153Z'
-title: The images on the web glowed.  Literally.
+description: And that grabs me.
+dateModified: '2017-04-11T01:25:20.811Z'
+datePublished: '2017-04-11T01:25:21.461Z'
+title: Images on the web glow. Literally.
 author: []
 publisher: {}
 via: {}
@@ -16,8 +14,8 @@ datePublishedOriginal: '2017-04-03T19:24:08.369Z'
 _type: Blurb
 
 ---
-### The images on the web glowed. Literally.
+### Images on the web glow. Literally.
 
-They were lit up by light, they were illuminated from within. They were alive, in a way. 
+And that grabs me.
 
-Even in this day and age, the color combination of color pixels cannot compete with film. But there is still something magical and different about an image generated from light itself.
+Illuminated from within, by the light of computer screen pixels. To me, that gives images on the web a certain magic.
