@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A close up view of the Rosette Nebula. The red color comes from Hydrogen.
-dateModified: '2017-04-12T00:06:17.699Z'
-datePublished: '2017-04-12T00:06:18.304Z'
+dateModified: '2017-04-12T00:09:32.540Z'
+datePublished: '2017-04-12T00:09:33.362Z'
 title: You are powerless but to awe.
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ datePublishedOriginal: '2017-04-10T00:13:50.515Z'
 _type: Blurb
 
 ---
-## You are powerless but to awe.
+# You are powerless but to awe.
 
 **A close up view of the Rosette Nebula. The red color comes from Hydrogen.**
 
