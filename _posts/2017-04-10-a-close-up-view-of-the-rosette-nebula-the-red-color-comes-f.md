@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: A close up view of the Rosette Nebula. The red color comes from Hydrogen.
-dateModified: '2017-04-11T01:08:48.819Z'
-datePublished: '2017-04-11T01:08:49.093Z'
-title: ''
+dateModified: '2017-04-12T00:02:45.021Z'
+datePublished: '2017-04-12T00:02:45.921Z'
+title: You are powerless but to awe.
 author: []
 publisher: {}
 via: {}
@@ -14,6 +14,10 @@ datePublishedOriginal: '2017-04-10T00:13:50.515Z'
 _type: Blurb
 
 ---
+### Great images force you to look, think, consider the outside of your self, and what you know. 
+
+## You are powerless but to awe.
+
 **A close up view of the Rosette Nebula. The red color comes from Hydrogen.**
 
 By Image based on data obtained as part of the INT Photometric H-Alpha Survey of the Northern Galactic Plane, prepared by Nick Wright, University College London, on behalf of the IPHAS Collaboration - http://astro.ic.ac.uk/Research/Halpha/North/gallery.shtml - accessed 5/07,2007, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1391328
