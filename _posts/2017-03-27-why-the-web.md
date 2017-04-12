@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: Why the web…
-dateModified: '2017-04-11T23:59:55.722Z'
-datePublished: '2017-04-11T23:59:56.366Z'
-title: Because it Brings Light.
+dateModified: '2017-04-12T00:04:27.456Z'
+datePublished: '2017-04-12T00:04:28.094Z'
+title: ''
 author: []
 publisher: {}
 via: {}
@@ -15,6 +15,6 @@ _type: Blurb
 ---
 Why the web...
 
-Enchantment. Power. Freedom. Ideas.
+Because it enchants. Empowers. Unshackles. 
 
-## Because it Brings Light.
+Because it Brings Light.
