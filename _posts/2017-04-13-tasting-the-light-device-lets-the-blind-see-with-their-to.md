@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Read the article, “Tasting the Light: Device Lets the Blind “See” with Their
   Tongues”
-dateModified: '2017-04-13T13:54:34.602Z'
-datePublished: '2017-04-13T13:54:35.071Z'
+dateModified: '2017-04-13T13:56:49.671Z'
+datePublished: '2017-04-13T13:56:49.843Z'
 title: 'We may not all have sight, but we all have VISION'
 author:
   - name: Mandy Kendrick
