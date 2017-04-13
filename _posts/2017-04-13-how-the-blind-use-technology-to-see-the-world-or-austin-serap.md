@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'https://www.youtube.com/watch?v=0EQOZRIA-nA'
-dateModified: '2017-04-13T13:47:18.270Z'
-datePublished: '2017-04-13T13:47:18.766Z'
+dateModified: '2017-04-13T13:48:01.210Z'
+datePublished: '2017-04-13T13:48:01.900Z'
 title: >-
   How the blind use technology to see the world | Austin Seraphin |
   TEDxPhiladelphia
@@ -17,6 +17,10 @@ _type: Blurb
 
 ---
 ### How the blind use technology to see the world | Austin Seraphin | TEDxPhiladelphia
+
+    <?php 
+      echo 'Hello World';
+    ?>
 
 [https://www.youtube.com/watch?v=0EQOZRIA-nA][0]
 
