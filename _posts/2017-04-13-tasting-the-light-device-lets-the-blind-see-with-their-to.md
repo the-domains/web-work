@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'We may not all have sight, but we all have VISION'
-dateModified: '2017-04-13T13:40:44.291Z'
-datePublished: '2017-04-13T13:40:44.779Z'
+dateModified: '2017-04-13T13:43:09.319Z'
+datePublished: '2017-04-13T13:43:09.766Z'
 title: 'Tasting the Light: Device Lets the Blind "See" with Their Tongues'
 author:
   - name: Mandy Kendrick
@@ -16,9 +16,9 @@ publisher:
   domain: www.scientificamerican.com
 via: {}
 isBasedOnUrl: 'https://www.scientificamerican.com/article/device-lets-blind-see-with-tongues/'
+sourcePath: _posts/2017-04-13-tasting-the-light-device-lets-the-blind-see-with-their-to.md
 starred: false
 datePublishedOriginal: '2017-04-13T13:40:44.779Z'
-sourcePath: _posts/2017-04-13-tasting-the-light-device-lets-the-blind-see-with-their-to.md
 _type: MediaObject
 
 ---
