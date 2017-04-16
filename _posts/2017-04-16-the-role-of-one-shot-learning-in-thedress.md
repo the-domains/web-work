@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Leila Drissi Daoudi; Adrien Doerig; Khatuna Parkosadze; Marina Kunchulia;
   Michael H. Herzog
-dateModified: '2017-04-16T18:24:51.787Z'
-datePublished: '2017-04-16T18:24:52.232Z'
+dateModified: '2017-04-16T18:25:24.351Z'
+datePublished: '2017-04-16T18:25:24.525Z'
 title: The Context of Experience - Matters.
 author:
   - name: 'JOV Journal of Vision March 2017, Vol.17, 15. doi:10.1167/17.3.15'
