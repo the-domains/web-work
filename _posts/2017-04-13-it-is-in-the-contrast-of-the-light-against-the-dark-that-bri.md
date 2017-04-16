@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: 'Read more about the amazing NASA composite image above.   Here’s an excerpt:'
-dateModified: '2017-04-13T14:01:24.067Z'
-datePublished: '2017-04-13T14:01:24.570Z'
+dateModified: '2017-04-16T18:25:24.351Z'
+datePublished: '2017-04-16T18:25:24.522Z'
 title: >-
   It is in the contrast of the light against the dark that brings
   understanding. 
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-04-13T14:01:24.570Z'
 sourcePath: >-
   _posts/2017-04-13-it-is-in-the-contrast-of-the-light-against-the-dark-that-bri.md
+starred: false
+datePublishedOriginal: '2017-04-13T14:01:24.570Z'
 _type: Blurb
 
 ---
