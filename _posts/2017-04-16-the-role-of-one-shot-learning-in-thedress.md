@@ -3,15 +3,15 @@ inFeed: true
 description: >-
   Leila Drissi Daoudi; Adrien Doerig; Khatuna Parkosadze; Marina Kunchulia;
   Michael H. Herzog
-dateModified: '2017-04-16T18:22:29.920Z'
-datePublished: '2017-04-16T18:22:30.441Z'
+dateModified: '2017-04-16T18:24:51.787Z'
+datePublished: '2017-04-16T18:24:52.232Z'
 title: The Context of Experience - Matters.
 author:
   - name: 'JOV Journal of Vision March 2017, Vol.17, 15. doi:10.1167/17.3.15'
     url: 'http://jov.arvojournals.org/article.aspx?articleid=2613309'
 publisher:
-  url: 'http://jov.arvojournals.org/article.aspx?articleid=2613309'
-  name: JOV -- The Journal of Vision
+  url: 'http://www.arvo.org/'
+  name: ARVO Journals
 via: {}
 sourcePath: _posts/2017-04-16-the-role-of-one-shot-learning-in-thedress.md
 starred: false
