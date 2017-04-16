@@ -1,12 +1,13 @@
 ---
 inFeed: true
 description: >-
-  Goissiaux explains that at first she didn’t know what was happening, she could
-  just feel changing patterns on her tongue being created through the fizzing
-  electrodes. But then one of the scientists at the Lighthouse School started
-  waving a long styrofoam rod across her face really fast, and she saw it. 
-dateModified: '2017-04-16T18:36:20.274Z'
-datePublished: '2017-04-16T18:36:21.068Z'
+  "Goissiaux explains that at first she didn’t know what was happening, she
+  could just feel changing patterns on her tongue being created through the
+  fizzing electrodes. But then one of the scientists at the Lighthouse School
+  started waving a long styrofoam rod across her face really fast, and she saw
+  it. "
+dateModified: '2017-04-16T18:38:04.270Z'
+datePublished: '2017-04-16T18:38:04.812Z'
 title: 'We may not all have sight, but we all have VISION'
 author:
   - name: Mandy Kendrick
@@ -23,4 +24,4 @@ _type: MediaObject
 ---
 ## We may not all have sight, but we all have _VISION_
 
-> Goissiaux explains that at first she didn't know what was happening, she could just feel changing patterns on her tongue being created through the fizzing electrodes. But then one of the scientists at the Lighthouse School started waving a long styrofoam rod across her face really fast, and she saw it.
+> "Goissiaux explains that at first she didn't know what was happening, she could just feel changing patterns on her tongue being created through the fizzing electrodes. But then one of the scientists at the Lighthouse School started waving a long styrofoam rod across her face really fast, and she saw it. "
